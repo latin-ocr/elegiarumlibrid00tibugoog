@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./elegiarumlibrid00tibugoog_0006.png"; bbox 0 0 3316 5114; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 538 675 1202 844">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 538 675 1202 844">
+     <span class='ocr_line' id='line_1_1' title="bbox 538 675 1202 844; baseline -0.003 -72"><span class='ocrx_word' id='word_1_1' title='bbox 538 677 739 774; x_wconf 80' lang='lat' dir='ltr'><strong>ALBH</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 779 675 1067 844; x_wconf 58' lang='lat' dir='ltr'>{IBULH</span> <span class='ocrx_word' id='word_1_3' title='bbox 1170 728 1202 824; x_wconf 11' lang='grc' dir='ltr'><strong>ι,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 229 1101 1370 1314">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 229 1101 1370 1314">
+     <span class='ocr_line' id='line_1_2' title="bbox 229 1101 1370 1314; baseline -0.002 -80"><span class='ocrx_word' id='word_1_4' title='bbox 229 1101 1114 1314; x_wconf 74' lang='lat' dir='ltr'><strong>ELEGIARUMLIBRI</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1158 1101 1370 1236; x_wconf 84' lang='lat' dir='ltr'><strong>DUO.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 512 2812 1089 2882">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 512 2812 1089 2882">
+     <span class='ocr_line' id='line_1_3' title="bbox 512 2812 1089 2882; baseline 0.002 -2"><span class='ocrx_word' id='word_1_6' title='bbox 512 2812 769 2880; x_wconf 82' lang='lat' dir='ltr'><strong>AEMILIUS</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 796 2812 1089 2882; x_wconf 77' lang='lat' dir='ltr'><strong>BAEERENS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 669 4145 898 4280">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 669 4145 898 4280">
+     <span class='ocr_line' id='line_1_4' title="bbox 669 4145 898 4280; baseline 0.013 -14"><span class='ocrx_word' id='word_1_8' title='bbox 669 4145 898 4280; x_wconf 63' lang='lat' dir='ltr'><strong>C&#39;LIPSIAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1662 5114">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1662 5114">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1662 5114; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1662 5114; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
